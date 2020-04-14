@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMS Retriever</string>
+    <string name="errorMessageSmsRetrieverStartup">Não foi possível inicializar o SMS Retriever</string>
+    <string name="successMessageSmsRetrieverStartup">SMS Retriever inicializado</string>
+
+    <string name="enterYourCodeBelow">Insira abaixo o código de acesso</string>
+    <string name="validateCode">Validar</string>
+
+    <string name="errorMessageInvalidCode">Código inválido</string>
+    <string name="successMessageCodeValidation">Validação realizada com sucesso!</string>
+    <string name="errorMessageSmsTimeout">Tempo excedido para validação do código!</string>
+
+</resources>
